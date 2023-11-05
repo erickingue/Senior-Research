@@ -1,3 +1,4 @@
+jekyll-theme-Architect
 # Is ChatGPT Bias?![chatGPT-1](https://github.com/erickingue/Senior-Research/assets/135284621/edaa9517-95b8-40bd-9056-1392262c03f8)
  ## Objective
 
